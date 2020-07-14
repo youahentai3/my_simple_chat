@@ -14,7 +14,7 @@
 
 #define BUFFER_SIZE 64
 
-int mian(int argc,char** argv)
+int main(int argc,char** argv)
 {
     if(argc<=2)
     {
